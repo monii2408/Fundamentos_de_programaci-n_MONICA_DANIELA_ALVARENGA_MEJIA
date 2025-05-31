@@ -1,12 +1,12 @@
 '''
-clase:      5
-Tema:       Estructuras iterativas
-Ejercicio:  2
+clase:       5
+Tema:        Estructuras iterativas
+Ejercicio:   2
 Descripción: 5.4.2. Sumador de valores posicionales
 
-Autor:      Monica Alvarenga
-Fecha:      2025-06-1
-Estado:     [Terminado]
+Autor:       Monica Alvarenga
+Fecha:       2025-06-1
+Estado:      [Terminado]
 '''
 numero = str(input("ingrese un numero: "))
 
