@@ -1,3 +1,13 @@
+'''
+clase:       5
+Tema:        Estructuras iterativas
+Ejercicio:   1
+Descripción: 5.4.1. ¡Adivina el numero!
+
+Autor:       Monica Alvarenga
+Fecha:       2025-06-1
+Estado:      [Terminado]
+'''
 import numpy as np
 
 consumo = np.array([
