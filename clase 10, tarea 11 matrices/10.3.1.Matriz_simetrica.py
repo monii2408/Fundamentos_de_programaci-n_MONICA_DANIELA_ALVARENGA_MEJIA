@@ -1,3 +1,13 @@
+'''
+Clase:        Clase 10
+Tema:         Matrices
+Ejercicio:    10.3.1
+Descripción:  Matriz simetrica
+
+Autor:        Monica Daniela Alvarenga Mejia
+Fecha:        2025-06-13
+Estado:       [ Terminado ]
+'''
 matriz = int(input("ingrese el numero de columnas: "))
 empty = []
 for i in range(matriz):
