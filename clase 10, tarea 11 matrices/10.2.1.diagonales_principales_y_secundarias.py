@@ -1,3 +1,13 @@
+'''
+Clase:        Clase 10
+Tema:         Matrices
+Ejercicio:    10.2.1
+Descripción:  Diagonal principal y secundaria
+
+Autor:        Monica Daniela Alvarenga Mejia
+Fecha:        2025-06-13
+Estado:       [ Terminado ]
+'''
 matriz = int(input("ingrese las dimensiones de la matrix"))
 
 matriz_vacia = []

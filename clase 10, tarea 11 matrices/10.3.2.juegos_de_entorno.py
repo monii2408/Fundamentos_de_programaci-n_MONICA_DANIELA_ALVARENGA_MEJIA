@@ -1,3 +1,13 @@
+'''
+Clase:        Clase 10
+Tema:         Matrices
+Ejercicio:    10.3.2
+Descripción:  juegos de entorno
+
+Autor:        Monica Daniela Alvarenga Mejia
+Fecha:        2025-06-14
+Estado:       [ En proceso ] #no entendí como hacer el ejercicio y no logre terminarlo
+'''
 # matriz = int(input("ingrese la proporcion de la matriz: "))
 
 # binaria = []
